@@ -10,12 +10,14 @@
 }
 
 .wadah .part {
-    display: flex;
+    display: flex; 
     padding: 2%;
 }
 
 .details {
     padding: 0 5%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .wadah img {
