@@ -1,9 +1,9 @@
 var i = 0;
 var arr = [
-    "url(images/fakeBG.jpg)",
-    "url(images/3rd.jpg)",
-    "url(images/4th.jpg)",
-    "url(images/trueBG.jpg)",
+    "url(images/kpop/itzy.jpg)",
+    "url(images/kpop/bp.jpg)",
+    "url(images/kpop/aespa.jpg)",
+    "url(images/kpop/niziu.jpg)",
 ];
 
 const SwitchIMG = () => {
