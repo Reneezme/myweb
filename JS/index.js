@@ -22,7 +22,7 @@ const SwitchIMG = () => {
             head.style.backgroundImage = "none";
         } else {
             Title.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))," + arr[i];
-            head.style.backgroundImage = "linear-gradient(rgba(255, 255, 255, 0.690), rgba(255, 255, 255, 0.690))," + arr[i];
+            head.style.backgroundImage = "linear-gradient(rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90))," + arr[i];
             i++;
         }
     });
