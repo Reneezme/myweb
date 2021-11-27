@@ -16,10 +16,12 @@
 .profil .teksprofil {
     text-align: left;
     padding: 5%;
+    text-align: justify;
+    text-justify: inter-word;
     background-color: white;
     width: 40%;
     position: absolute;
-    top: 75%;
+    top: 60%;
     left: 60%;
     transform: translate(-50%, -50%);
 }
